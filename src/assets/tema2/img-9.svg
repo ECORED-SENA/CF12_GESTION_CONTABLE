@@ -1,0 +1,53 @@
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" width="780.22" height="493.24" viewBox="0 0 780.22 493.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9a171;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #1e168c;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #1e168c;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-size: 18px;
+        font-family: Roboto-Regular, Roboto;
+        letter-spacing: 0.011em;
+      }
+    </style>
+  </defs>
+  <path id="Trazado_106648" data-name="Trazado 106648" class="cls-1" d="M397.21,5.48c71.72,0,129.94,31.66,129.94,70.72S469,146.91,397.21,146.91s-130-31.65-130-70.71S325.43,5.48,397.21,5.48Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106648-2" data-name="Trazado 106648" class="cls-1" d="M397.21,223.67c71.72,0,129.94,31.67,129.94,70.72S469,365.1,397.21,365.1s-130-31.65-130-70.71S325.43,223.67,397.21,223.67Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106648-3" data-name="Trazado 106648" class="cls-1" d="M657.7,357.28c71.72,0,129.95,31.67,129.95,70.72s-58.18,70.72-129.95,70.72-130-31.65-130-70.72S585.92,357.28,657.7,357.28Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106648-4" data-name="Trazado 106648" class="cls-1" d="M137.39,357.28c71.72,0,130,31.67,130,70.72s-58.18,70.72-129.95,70.72S7.43,467.07,7.43,428,65.61,357.28,137.39,357.28Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106659" data-name="Trazado 106659" class="cls-2" d="M403.09,202.32l-12.08.24,6.02,15.62Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106660" data-name="Trazado 106660" class="cls-2" d="M391.31,168.47l12.08-.23-6.02-15.62Z" transform="translate(-7.43 -5.48)"/>
+  <line id="Línea_446" data-name="Línea 446" class="cls-3" x1="1.02" y2="57.75" transform="translate(389.11 154.95)"/>
+  <path id="Trazado_106661" data-name="Trazado 106661" class="cls-2" d="M292.76,434.59l-.02-12.09-15.73,5.75Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106662" data-name="Trazado 106662" class="cls-2" d="M502.61,422.41l.02,12.09,15.72-5.75Z" transform="translate(-7.43 -5.48)"/>
+  <line id="Línea_447" data-name="Línea 447" class="cls-3" x1="228.93" transform="translate(272.37 423.28)"/>
+  <path id="Trazado_106663" data-name="Trazado 106663" class="cls-2" d="M487.18,154.89l10.98-5.76-12.7-11.57Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106664" data-name="Trazado 106664" class="cls-2" d="M597.96,339.95l-10.98,5.76,12.7,11.57Z" transform="translate(-7.43 -5.48)"/>
+  <line id="Línea_448" data-name="Línea 448" class="cls-3" x1="108.77" y1="208.21" transform="translate(478.89 134.85)"/>
+  <path id="Trazado_106665" data-name="Trazado 106665" class="cls-2" d="M307.22,154.89l-10.98-5.76,12.7-11.57Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106666" data-name="Trazado 106666" class="cls-2" d="M196.44,339.95l10.98,5.76-12.7,11.57Z" transform="translate(-7.43 -5.48)"/>
+  <line id="Línea_449" data-name="Línea 449" class="cls-3" y1="208.21" x2="108.77" transform="translate(191.88 134.85)"/>
+  <path id="Trazado_106667" data-name="Trazado 106667" class="cls-2" d="M549.67,365.29,541.29,374l15.31,6.79Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106668" data-name="Trazado 106668" class="cls-2" d="M517.41,349.69l8.38-8.71-15.31-6.79Z" transform="translate(-7.43 -5.48)"/>
+  <line id="Línea_450" data-name="Línea 450" class="cls-3" x2="40.11" y2="41.55" transform="translate(508.71 334.11)"/>
+  <path id="Trazado_106669" data-name="Trazado 106669" class="cls-2" d="M277.74,350.04l-8.38-8.71,15.31-6.79Z" transform="translate(-7.43 -5.48)"/>
+  <path id="Trazado_106670" data-name="Trazado 106670" class="cls-2" d="M245.48,365.64l8.37,8.71-15.3,6.79Z" transform="translate(-7.43 -5.48)"/>
+  <line id="Línea_451" data-name="Línea 451" class="cls-3" y1="41.55" x2="40.11" transform="translate(236.78 328.71)"/>
+  <text id="Estrategia" class="cls-4" transform="translate(281 50.77)"><tspan x="-41.189" y="19">Estrategia</tspan></text>
+  <text id="Cliente" class="cls-4" transform="translate(281 270.01)"><tspan x="-28.262" y="19">Cliente</tspan></text>
+  <text id="Personas" class="cls-4" transform="translate(541.245 405.11)"><tspan x="-38.46" y="19">Personas</tspan></text>
+  <text id="Sistemas" class="cls-4" transform="translate(20.98 405.11)"><tspan x="-37.989" y="19">Sistemas</tspan></text>
+</svg>

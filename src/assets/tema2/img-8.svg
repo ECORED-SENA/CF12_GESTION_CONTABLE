@@ -1,0 +1,22 @@
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" width="779.72" height="261.12" viewBox="0 0 779.72 261.12">
+  <path id="Trazado_106651" data-name="Trazado 106651" d="M584.37,70.14A238.832,238.832,0,0,1,606.18,91.4l-1.35.85a235.727,235.727,0,0,0-21.49-21,224.692,224.692,0,0,0-43.25-29.39l.37-1.61a228.345,228.345,0,0,1,43.91,29.89Z" transform="translate(-15.46 -11.22)" fill="#1e168c"/>
+  <path id="Trazado_106652" data-name="Trazado 106652" d="M612.33,99.78l-13.34-9.07,5.97.54,1.38-4.77Z" transform="translate(-15.46 -11.22)" fill="#1e168c"/>
+  <g id="Grupo_59524" data-name="Grupo 59524" transform="matrix(-0.208, 0.978, -0.978, -0.208, 597.379, 169.019)">
+    <path id="Trazado_106653" data-name="Trazado 106653" d="M584.37,217.05a237.521,237.521,0,0,1,21.81,21.25l-1.35.85a235.728,235.728,0,0,0-21.49-21,224.693,224.693,0,0,0-43.25-29.39l.37-1.61A228.343,228.343,0,0,1,584.37,217.05Z" transform="translate(-540.09 -187.15)" fill="#1e168c"/>
+    <path id="Trazado_106654" data-name="Trazado 106654" d="M612.33,192.91l-13.34-9.07,5.97.54,1.38-4.77Z" transform="translate(-540.09 -133.37)" fill="#1e168c"/>
+  </g>
+  <path id="Rectángulo_5445-2" data-name="Rectángulo 5445-2" d="M287.63,11.22H523c6.78,0,12.26,6.42,12.26,14.35V63.35c0,7.93-5.49,14.35-12.26,14.35H287.63c-6.78,0-12.27-6.42-12.27-14.35V25.57C275.36,17.64,280.85,11.22,287.63,11.22Z" transform="translate(-15.46 -11.22)" fill="#7593bb"/>
+  <path id="Rectángulo_5445-2-2" data-name="Rectángulo 5445-2" d="M287.63,205.85H523c6.78,0,12.26,6.42,12.26,14.34V258c0,7.92-5.49,14.34-12.26,14.34H287.63c-6.78,0-12.27-6.42-12.27-14.34V220.19C275.36,212.27,280.85,205.85,287.63,205.85Z" transform="translate(-15.46 -11.22)" fill="#7593bb"/>
+  <path id="Rectángulo_5445-2-3" data-name="Rectángulo 5445-2" d="M547.54,107.58H782.91c6.78,0,12.27,6.42,12.27,14.34v37.79c0,7.92-5.49,14.34-12.27,14.34H547.54c-6.78,0-12.27-6.42-12.27-14.34V121.92C535.27,114,540.76,107.58,547.54,107.58Z" transform="translate(-15.46 -11.22)" fill="#7593bb"/>
+  <path id="Trazado_106655" data-name="Trazado 106655" d="M226.26,209.25A237.393,237.393,0,0,1,204.46,188l1.34-.85a235.733,235.733,0,0,0,21.49,21,225,225,0,0,0,43.25,29.39l-.36,1.61a228.4,228.4,0,0,1-43.92-29.9Z" transform="translate(-15.46 -11.22)" fill="#1e168c"/>
+  <path id="Trazado_106656" data-name="Trazado 106656" d="M198.31,179.61l13.34,9.07-5.97-.54-1.38,4.77Z" transform="translate(-15.46 -11.22)" fill="#1e168c"/>
+  <g id="Grupo_59525" data-name="Grupo 59525" transform="translate(181.347 86.636) rotate(-76)">
+    <path id="Trazado_106657" data-name="Trazado 106657" d="M248.74,70.14a238.7,238.7,0,0,1,21.8,21.26l-1.34.85a235.732,235.732,0,0,0-21.49-21,225,225,0,0,0-43.25-29.39l.36-1.61a228.4,228.4,0,0,1,43.92,29.89Z" transform="translate(-204.46 -40.25)" fill="#1e168c"/>
+    <path id="Trazado_106658" data-name="Trazado 106658" d="M211.65,99.78l-13.34-9.07,5.97.54,1.38-4.77Z" transform="translate(-139.42 -40.25)" fill="#1e168c"/>
+  </g>
+  <path id="Rectángulo_5445-2-4" data-name="Rectángulo 5445-2" d="M263.1,171.81H27.72c-6.78,0-12.26-6.42-12.26-14.34V119.68c0-7.92,5.48-14.34,12.26-14.34H263.1c6.78,0,12.26,6.42,12.26,14.34v37.79C275.36,165.39,269.88,171.81,263.1,171.81Z" transform="translate(-15.46 -11.22)" fill="#7593bb"/>
+  <text id="Momento_de_verdad" data-name="Momento de verdad" transform="translate(279 17.03)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.011em"><tspan x="-81.701" y="19">Momento de verdad</tspan></text>
+  <text id="Momento_final" data-name="Momento final" transform="translate(540.765 115.354)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.011em"><tspan x="-58.943" y="19">Momento final</tspan></text>
+  <text id="Momento_inicial" data-name="Momento inicial" transform="translate(20.95 115.354)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.011em"><tspan x="-65.52" y="19">Momento inicial</tspan></text>
+  <text id="Momento_crítico" data-name="Momento crítico" transform="translate(279 215.875)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto" letter-spacing="0.011em"><tspan x="-67.159" y="19">Momento crítico</tspan></text>
+</svg>

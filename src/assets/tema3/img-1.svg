@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Grupo_59815" data-name="Grupo 59815" transform="translate(-172 -785.999)">
+    <rect id="Rectángulo_5867" data-name="Rectángulo 5867" width="100" height="100" transform="translate(172 785.999)" fill="#344154" opacity="0"/>
+    <path id="Trazado_105550" data-name="Trazado 105550" d="M862.571,4033.314a41.2,41.2,0,1,1-41.2-41.2A41.2,41.2,0,0,1,862.571,4033.314Z" transform="translate(-599.375 -3196.461)" fill="#d9a171"/>
+    <path id="Trazado_108215" data-name="Trazado 108215" d="M55.935,101.984H0v38.654a2.274,2.274,0,0,0,2.274,2.274H53.661a2.274,2.274,0,0,0,2.274-2.274Z" transform="translate(194 717.292)" fill="#edf6ff"/>
+    <path id="Trazado_108216" data-name="Trazado 108216" d="M465.363,101.984v38.654a2.274,2.274,0,0,1-2.274,2.274h3.07a2.274,2.274,0,0,0,2.274-2.274V101.984Z" transform="translate(-218.498 717.292)" fill="#ddebfd"/>
+    <path id="Trazado_108217" data-name="Trazado 108217" d="M53.661,35.382H2.274A2.274,2.274,0,0,0,0,37.656v5H55.935v-5A2.274,2.274,0,0,0,53.661,35.382Z" transform="translate(194 776.618)" fill="#4172ca"/>
+    <path id="Trazado_108218" data-name="Trazado 108218" d="M466.159,35.382h-3.07a2.274,2.274,0,0,1,2.274,2.274v5h3.07v-5A2.274,2.274,0,0,0,466.159,35.382Z" transform="translate(-218.498 776.618)" fill="#3a67c1"/>
+    <circle id="Elipse_4217" data-name="Elipse 4217" cx="15.916" cy="15.916" r="15.916" transform="translate(206.051 823.824)" fill="#aed3f2"/>
+    <circle id="Elipse_4218" data-name="Elipse 4218" cx="12.278" cy="12.278" r="12.278" transform="translate(209.689 827.462)" fill="#6595bf"/>
+    <circle id="Elipse_4219" data-name="Elipse 4219" cx="1.819" cy="1.819" r="1.819" transform="translate(220.148 831.1)" fill="#edf6ff"/>
+    <path id="Trazado_108220" data-name="Trazado 108220" d="M241.169,274.732a1.819,1.819,0,0,0-1.819,1.819v6.594a1.819,1.819,0,0,0,3.638,0v-6.594A1.819,1.819,0,0,0,241.169,274.732Z" transform="translate(-19.202 563.417)" fill="#edf6ff"/>
+    <circle id="Elipse_4220" data-name="Elipse 4220" cx="0.909" cy="0.909" r="0.909" transform="translate(242.886 814.729)" fill="#a2f5c3"/>
+    <circle id="Elipse_4221" data-name="Elipse 4221" cx="0.909" cy="0.909" r="0.909" transform="translate(239.248 814.729)" fill="#f7e365"/>
+    <circle id="Elipse_4222" data-name="Elipse 4222" cx="0.909" cy="0.909" r="0.909" transform="translate(235.61 814.729)" fill="#e175a5"/>
+  </g>
+</svg>

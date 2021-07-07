@@ -1,0 +1,115 @@
+<svg id="Componente_3_1" data-name="Componente 3 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="793.181" height="626" viewBox="0 0 793.181 626">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.502"/>
+      <stop offset="0.94" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.06" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.502"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.05" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.502"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.022" y1="-0.064" x2="1.025" y2="0.927" gradientUnits="objectBoundingBox">
+      <stop offset="0.1" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.502"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="1.898" y1="4.259" x2="2.898" y2="4.259" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.4"/>
+      <stop offset="0.866" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.49"/>
+      <stop offset="0.097" stop-color="#fff" stop-opacity="0.373"/>
+      <stop offset="0.897" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.651"/>
+      <stop offset="0.88" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path id="Trazado_113183" data-name="Trazado 113183" d="M-22.363,0H150a14,14,0,0,1,14,14V40a14,14,0,0,1-14,14H5Z" transform="translate(629.181 165)" fill="#d9a171" opacity="0.15"/>
+  <path id="Trazado_113187" data-name="Trazado 113187" d="M164,0H-8.363a14,14,0,0,0-14,14V40a14,14,0,0,0,14,14h145Z" transform="translate(22.363 165)" fill="#d9a171" opacity="0.15"/>
+  <path id="Trazado_113182" data-name="Trazado 113182" d="M0,0H215.394a14,14,0,0,1,14,14V40a14,14,0,0,1-14,14H0Z" transform="translate(503.181 80)" fill="#aed3f2" opacity="0.15"/>
+  <path id="Trazado_113186" data-name="Trazado 113186" d="M229.394,0H14A14,14,0,0,0,0,14V40A14,14,0,0,0,14,54H229.394Z" transform="translate(82.181 70)" fill="#a66d58" opacity="0.15"/>
+  <path id="Trazado_113185" data-name="Trazado 113185" d="M0,0H215.394a14,14,0,0,1,14,14V40a14,14,0,0,1-14,14H0Z" transform="translate(503.181 503)" fill="#aed3f2" opacity="0.15"/>
+  <path id="Trazado_113189" data-name="Trazado 113189" d="M229.394,0H14A14,14,0,0,0,0,14V40A14,14,0,0,0,14,54H229.394Z" transform="translate(71.666 503)" fill="#a66d58" opacity="0.15"/>
+  <path id="Trazado_113184" data-name="Trazado 113184" d="M8,0H150a14,14,0,0,1,14,14V40a14,14,0,0,1-14,14H-26.953Z" transform="translate(625.181 411)" fill="#6595bf" opacity="0.15"/>
+  <path id="Trazado_113188" data-name="Trazado 113188" d="M129.047,0h-142a14,14,0,0,0-14,14V40a14,14,0,0,0,14,14H164Z" transform="translate(27.134 411)" fill="#6595bf" opacity="0.15"/>
+  <path id="Rectángulo_8819" data-name="Rectángulo 8819" d="M0,0H150a14,14,0,0,1,14,14V40a14,14,0,0,1-14,14H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(625.181 281)" fill="#a66d58" opacity="0.15"/>
+  <path id="Rectángulo_8822" data-name="Rectángulo 8822" d="M14,0H164a0,0,0,0,1,0,0V54a0,0,0,0,1,0,0H14A14,14,0,0,1,0,40V14A14,14,0,0,1,14,0Z" transform="translate(0.181 281)" fill="#aed3f2" opacity="0.15"/>
+  <rect id="Rectángulo_8820" data-name="Rectángulo 8820" width="164" height="54" rx="14" transform="translate(319.181 572)" fill="#d9a171" opacity="0.15"/>
+  <rect id="Rectángulo_8821" data-name="Rectángulo 8821" width="164" height="54" rx="14" transform="translate(319.181)" fill="#6595bf" opacity="0.15"/>
+  <g id="OBJECTS" transform="translate(70.651 -16.65)">
+    <text id="Asignación_de_mesa" data-name="Asignación de mesa" transform="translate(613.53 303.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Asignación </tspan><tspan x="0" y="35">de mesa</tspan></text>
+    <text id="Facilidad_de_estacionamiento" data-name="Facilidad de estacionamiento" transform="translate(274.53 23.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-42.758" y="17">Facilidad de </tspan><tspan x="-59.488" y="35">estacionamiento</tspan></text>
+    <text id="Espera_por_la_cuenta" data-name="Espera por la cuenta" transform="translate(-40.47 303.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-76.078" y="17">Espera por </tspan><tspan x="-64.977" y="35">la cuenta</tspan></text>
+    <text id="Atención_y_espera_por_la_carta" data-name="Atención y espera por la carta" transform="translate(573.53 434.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Atención y espera </tspan><tspan x="0" y="35">por la carta</tspan></text>
+    <text id="Atención_durante_el_servicio" data-name="Atención durante el servicio" transform="translate(-37.47 434.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-121.188" y="17">Atención durante </tspan><tspan x="-71.617" y="35">el servicio</tspan></text>
+    <text id="Toma_de_la_orden" data-name="Toma de la orden" transform="translate(511.53 533.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Toma de la orden</tspan></text>
+    <text id="Calidad_de_servicio" data-name="Calidad de servicio" transform="translate(24.53 533.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-134.352" y="17">Calidad de servicio</tspan></text>
+    <text id="Espera_por_el_servicio" data-name="Espera por el servicio" transform="translate(289.53 596.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-38.039" y="17">Espera por </tspan><tspan x="-35.809" y="35">el servicio</tspan></text>
+    <text id="Recepción" transform="translate(573.53 196.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-37.184" y="17">Recepción</tspan></text>
+    <text id="Despedida" transform="translate(61.53 102.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-75.305" y="17">Despedida</tspan></text>
+    <text id="Pago_de_la_cuenta" data-name="Pago de la cuenta" transform="translate(-52.47 196.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-127.211" y="17">Pago de la cuenta</tspan></text>
+    <text id="Aspecto_general_del_establecimiento" data-name="Aspecto general del establecimiento" transform="translate(508.53 102.65)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Aspecto general del </tspan><tspan x="0" y="37">establecimiento</tspan></text>
+    <g id="Grupo_59794" data-name="Grupo 59794">
+      <path id="Trazado_106626" data-name="Trazado 106626" d="M215.751,474.2l-111.7,64.514a28.827,28.827,0,0,1-39.305-10.536L37.219,480.571a28.827,28.827,0,0,1,10.529-39.32L158.378,377.4a120.4,120.4,0,0,0,57.373,96.8Z" transform="translate(53.043 -43.542)" fill="#6595bf" fill-rule="evenodd"/>
+      <path id="Trazado_106627" data-name="Trazado 106627" d="M205.706,458.06,141.191,569.807a28.827,28.827,0,0,0,10.529,39.306L199.328,636.6a28.827,28.827,0,0,0,39.306-10.529l64.486-111.7a120.352,120.352,0,0,1-97.413-56.306Z" transform="translate(24 -66.072)" fill="#a66d58" fill-rule="evenodd"/>
+      <path id="Trazado_106628" data-name="Trazado 106628" d="M295.7,517V646a28.827,28.827,0,0,0,28.769,28.827h54.98a28.827,28.827,0,0,0,28.769-28.776V517A121,121,0,0,1,295.7,517Z" transform="translate(-20.232 -82.536)" fill="#c99f73" fill-rule="evenodd"/>
+      <path id="Trazado_106629" data-name="Trazado 106629" d="M477.359,458.334l64.4,111.546a28.827,28.827,0,0,1-10.529,39.305l-47.615,27.486a28.827,28.827,0,0,1-39.3-10.529l-64.486-111.7a120.388,120.388,0,0,0,97.529-56.119Z" transform="translate(-43.732 -66.146)" fill="#b7d1ef" fill-rule="evenodd"/>
+      <path id="Trazado_106630" data-name="Trazado 106630" d="M462,473.516l111.7,64.5a28.827,28.827,0,0,0,39.305-10.529l27.472-47.608a28.827,28.827,0,0,0-10.565-39.313l-111.2-64.2A120.388,120.388,0,0,1,462,473.516Z" transform="translate(-66.684 -43.255)" fill="#6595bf" fill-rule="evenodd"/>
+      <path id="Trazado_106631" data-name="Trazado 106631" d="M521.776,291.85H649.991a28.827,28.827,0,0,1,28.777,28.769v54.973a28.827,28.827,0,0,1-28.776,28.791H521.2A121.022,121.022,0,0,0,521.776,291.85Z" transform="translate(-83.22 -19.646)" fill="#a66d58" fill-rule="evenodd"/>
+      <path id="Trazado_106632" data-name="Trazado 106632" d="M462.89,201.432l111.048-64.14a28.827,28.827,0,0,1,39.306,10.536l27.486,47.608a28.827,28.827,0,0,1-10.565,39.305L519.023,298.953a120.352,120.352,0,0,0-56.133-97.521Z" transform="translate(-71.595 23.611)" fill="#c99f73" fill-rule="evenodd"/>
+      <path id="Trazado_106633" data-name="Trazado 106633" d="M476.722,209.145,539.2,100.936a28.193,28.193,0,0,0-10.284-38.4L482.394,35.679A28.186,28.186,0,0,0,444,45.963L381.24,154.655a120.353,120.353,0,0,1,95.482,54.49Z" transform="translate(-38.478 63.06)" fill="#b7d1ef" fill-rule="evenodd"/>
+      <path id="Trazado_106634" data-name="Trazado 106634" d="M298.7,160.562V35.756A28.193,28.193,0,0,1,326.8,7.65h53.712a28.193,28.193,0,0,1,28.106,28.106v125.7a121.008,121.008,0,0,0-109.931-.894Z" transform="translate(-21.067 59.739)" fill="#6595bf" fill-rule="evenodd"/>
+      <path id="Trazado_106635" data-name="Trazado 106635" d="M209.518,207.925,147.742,100.934a28.207,28.207,0,0,1,10.291-38.4l46.505-26.852A28.193,28.193,0,0,1,242.95,45.962l62.7,108.641a120.352,120.352,0,0,0-96.152,53.33Z" transform="translate(20.272 53.841)" fill="#a66d58" fill-rule="evenodd"/>
+      <path id="Trazado_106636" data-name="Trazado 106636" d="M214.4,201.637,104.018,137.9A28.827,28.827,0,0,0,64.713,148.43L37.226,196.045a28.863,28.863,0,0,0,10.529,39.305l110.573,63.83A120.352,120.352,0,0,1,214.4,201.637Z" transform="translate(53.036 24.43)" fill="#c99f73" fill-rule="evenodd"/>
+      <path id="Trazado_106637" data-name="Trazado 106637" d="M63.042,404.6H37.306A28.827,28.827,0,0,1,8.53,375.826v-54.98A28.827,28.827,0,0,1,37.306,292.07H164.866a120.172,120.172,0,0,0-13.419,61.488Z" transform="translate(59.982 -19.707)" fill="#b7d1ef" fill-rule="evenodd"/>
+      <path id="Trazado_106638" data-name="Trazado 106638" d="M327.083,202.05A120.453,120.453,0,1,1,206.63,322.5,120.453,120.453,0,0,1,327.083,202.05Z" transform="translate(4.647 5.438)" fill="#5e6178" fill-rule="evenodd"/>
+      <g id="Grupo_59790" data-name="Grupo 59790" transform="translate(72.707 75.237)">
+        <ellipse id="Elipse_4195" data-name="Elipse 4195" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(119.733 31.256)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4196" data-name="Elipse 4196" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(232.381 0)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4197" data-name="Elipse 4197" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(351.174 41.36)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4198" data-name="Elipse 4198" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(424.354 112.951)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4199" data-name="Elipse 4199" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(30.521 113.939)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4200" data-name="Elipse 4200" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(463.789 223.971)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4201" data-name="Elipse 4201" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(0 223.971)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4202" data-name="Elipse 4202" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(430.876 343.292)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4203" data-name="Elipse 4203" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(28.654 343.292)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4204" data-name="Elipse 4204" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(345.526 428.843)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4205" data-name="Elipse 4205" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(232.482 461.576)" fill="#161616" opacity="0.2"/>
+        <ellipse id="Elipse_4206" data-name="Elipse 4206" cx="25.497" cy="25.497" rx="25.497" ry="25.497" transform="translate(118.291 428.843)" fill="#161616" opacity="0.2"/>
+      </g>
+      <path id="Trazado_106639" data-name="Trazado 106639" d="M449.732,468.723q-2.962-2.4-5.989-4.728c-1.521-1.182-3.063-2.335-4.6-3.5a97.846,97.846,0,0,1-64.363,31.277v-8.5L351,497.031l23.782,13.75V505.16A111.128,111.128,0,0,0,449.732,468.723Z" transform="translate(-35.679 -66.754)" fill="url(#linear-gradient)"/>
+      <path id="Trazado_106640" data-name="Trazado 106640" d="M509.5,366.612c0-1.182,0-2.364-.058-3.531l-8.5-.476-4.872-.245c.058,1.441.094,2.825.094,4.252A97.593,97.593,0,0,1,474.8,427.725L469.24,422.2l-7.12,26.571,26.578-7.12-4.432-4.425A110.984,110.984,0,0,0,509.5,366.612Z" transform="translate(-66.718 -39.341)" fill="url(#linear-gradient-2)"/>
+      <path id="Trazado_106641" data-name="Trazado 106641" d="M510.251,326.184A111.084,111.084,0,0,0,476.7,257q-4.973,4.475-9.916,9a97.8,97.8,0,0,1,30.045,60.183h-7.848l13.75,23.782,13.758-23.782Z" transform="translate(-68.02 -9.91)" fill="url(#linear-gradient-3)"/>
+      <path id="Trazado_106642" data-name="Trazado 106642" d="M456.693,263.422l-7.12-26.571-3.928,3.928A110.984,110.984,0,0,0,372.8,213.66h-1.24v13.361h1.24a97.666,97.666,0,0,1,63.369,23.242l-6.046,6.039Z" transform="translate(-41.422 2.195)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_106647" data-name="Trazado 106647" d="M85.133,49.763l-7.12-26.571-3.928,3.928A110.984,110.984,0,0,0,1.24,0H0V13.361H1.24A97.666,97.666,0,0,1,64.608,36.6l-6.046,6.039Z" transform="translate(252.702 249.781) rotate(-45)" fill="url(#linear-gradient-4)"/>
+      <path id="Trazado_106643" data-name="Trazado 106643" d="M258.81,249.158c1.975,1.6,3.978,3.171,5.989,4.728,1.521,1.175,3.063,2.335,4.6,3.5A97.846,97.846,0,0,1,333.724,226.1v8.5l23.826-13.75L333.724,207.1v5.621a111.128,111.128,0,0,0-74.914,36.437Z" transform="translate(-9.928 4.027)" fill="url(#linear-gradient-6)"/>
+      <path id="Trazado_106644" data-name="Trazado 106644" d="M218.92,337.267c0,1.182,0,2.357.058,3.531,2.847.159,5.686.324,8.533.476l4.865.245c-.058-1.441-.094-2.825-.094-4.252a97.622,97.622,0,0,1,21.375-61.113l5.528,5.528L266.3,255.11l-26.564,7.127,4.425,4.425a110.983,110.983,0,0,0-25.238,70.6Z" transform="translate(1.215 -9.383)" fill="url(#linear-gradient-7)"/>
+      <path id="Trazado_106645" data-name="Trazado 106645" d="M217.263,375.174a111.084,111.084,0,0,0,33.555,69.184q4.987-4.475,9.916-9a97.752,97.752,0,0,1-30.038-60.2h7.841l-13.75-23.782L211,375.174Z" transform="translate(3.427 -36.271)" fill="url(#linear-gradient-8)"/>
+      <path id="Trazado_106646" data-name="Trazado 106646" d="M257.1,454.66l7.135,26.564,3.928-3.92a110.984,110.984,0,0,0,72.853,27.119h1.232V491.04h-1.232A97.637,97.637,0,0,1,277.646,467.8l6.039-6.046Z" transform="translate(-9.45 -65.123)" opacity="0.61" fill="url(#linear-gradient-9)"/>
+      <g id="Grupo_59791" data-name="Grupo 59791" transform="translate(81.456 82.113)">
+        <text id="_12" data-name="12" transform="translate(119.733 56.256)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">12</tspan></text>
+        <text id="_1" data-name="1" transform="translate(239.898 25)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">1</tspan></text>
+        <text id="_2" data-name="2" transform="translate(358.684 66.359)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">2</tspan></text>
+        <text id="_3" data-name="3" transform="translate(431.87 137.95)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">3</tspan></text>
+        <text id="_11" data-name="11" transform="translate(30.521 138.938)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">11</tspan></text>
+        <text id="_4" data-name="4" transform="translate(471.298 248.97)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">4</tspan></text>
+        <text id="_10" data-name="10" transform="translate(0 248.97)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">10</tspan></text>
+        <text id="_5" data-name="5" transform="translate(438.393 368.292)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">5</tspan></text>
+        <text id="_9" data-name="9" transform="translate(36.163 368.292)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">9</tspan></text>
+        <text id="_6" data-name="6" transform="translate(353.036 453.843)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">6</tspan></text>
+        <text id="_7" data-name="7" transform="translate(239.999 486.576)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">7</tspan></text>
+        <text id="_8" data-name="8" transform="translate(125.801 453.843)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">8</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

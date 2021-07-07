@@ -1,0 +1,22 @@
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" width="950.147" height="324.253" viewBox="0 0 950.147 324.253">
+  <rect id="Rectángulo_5444" data-name="Rectángulo 5444" width="244.236" height="141.447" rx="12" transform="translate(0 91.409)" fill="#c99f73"/>
+  <rect id="Rectángulo_5444-2" data-name="Rectángulo 5444" width="244.236" height="141.447" rx="12" transform="translate(705.911 91.409)" fill="#c99f73"/>
+  <path id="Rectángulo_5445" data-name="Rectángulo 5445" d="M305.884,10.62H541.263c6.778,0,12.264,6.419,12.264,14.344V62.75c0,7.925-5.487,14.344-12.264,14.344H305.884c-6.778,0-12.264-6.419-12.264-14.344V24.964C293.62,17.051,299.107,10.62,305.884,10.62Z" transform="translate(49.854 -10.62)" fill="#6595bf"/>
+  <path id="Rectángulo_5445-2" data-name="Rectángulo 5445" d="M305.884,226.27H541.263c6.778,0,12.264,6.419,12.264,14.344V278.4c0,7.925-5.487,14.344-12.264,14.344H305.884c-6.778,0-12.264-6.419-12.264-14.344V240.614C293.62,232.689,299.107,226.27,305.884,226.27Z" transform="translate(49.854 31.509)" fill="#6595bf"/>
+  <path id="Trazado_106648" data-name="Trazado 106648" d="M423.579,87.09c71.722,0,129.947,31.665,129.947,70.717s-58.178,70.717-129.947,70.717S293.62,196.872,293.62,157.807,351.8,87.09,423.579,87.09Z" transform="translate(49.854 4.319)" fill="#5e6178" fill-rule="evenodd"/>
+  <path id="Trazado_106649" data-name="Trazado 106649" d="M265.875,168.011c0,2.893,2.08,4.04,4.674,2.57l31.474-17.847c2.594-1.482,2.618-3.921,0-5.439l-31.151-18.325c-2.582-1.518-4.7-.394-4.781,2.5a5.343,5.343,0,0,1-5.475,5.188l-31.7-.49a5.439,5.439,0,0,0-5.475,5.391l-.12,15.2a5.451,5.451,0,0,0,5.391,5.475l31.82.49A5.379,5.379,0,0,1,265.875,168.011Z" transform="translate(36.121 12.369)" fill="#b7d1ef"/>
+  <path id="Trazado_106650" data-name="Trazado 106650" d="M568.038,168.011c0,2.893-2.08,4.04-4.686,2.57L531.89,152.734c-2.606-1.482-2.618-3.921,0-5.439l31.2-18.325c2.57-1.518,4.7-.394,4.781,2.5a5.343,5.343,0,0,0,5.463,5.188l31.832-.49a5.451,5.451,0,0,1,5.475,5.391l.119,15.2a5.451,5.451,0,0,1-5.391,5.475l-31.832.49a5.355,5.355,0,0,0-5.5,5.284Z" transform="translate(78.655 12.369)" fill="#b7d1ef"/>
+  <text id="PROCESO" transform="translate(367 18)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-45.259" y="21">PROCESO</tspan></text>
+  <text id="Entradas_Deseos_Dinero_Necesidades_Pasiones" data-name="Entradas
+Deseos
+Dinero
+Necesidades
+Pasiones" transform="translate(13 106)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-35.706" y="19">Entradas</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="-29.852" y="41">Deseos</tspan><tspan x="-25.91" y="63">Dinero</tspan><tspan x="-51.943" y="85">Necesidades</tspan><tspan x="-36.857" y="107">Pasiones</tspan></tspan></text>
+  <text id="Salidas_Satisfacción_Amistad_Aceptación_Desilusión" data-name="Salidas
+Satisfacción
+Amistad
+Aceptación
+Desilusión" transform="translate(719 106)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-29.808" y="19">Salidas</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="-49.724" y="41">Satisfacción</tspan><tspan x="-33.495" y="63">Amistad</tspan><tspan x="-45.229" y="85">Aceptación</tspan><tspan x="-41.563" y="107">Desilusión</tspan></tspan></text>
+  <text id="Clientes" transform="translate(367 280)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800" letter-spacing="0.011em"><tspan x="-34.122" y="19">Clientes</tspan></text>
+  <text id="Momento_de_verdad" data-name="Momento de verdad" transform="translate(367 150)" fill="#fff" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800" letter-spacing="0.011em"><tspan x="-82.571" y="19">Momento de verdad</tspan></text>
+</svg>
