@@ -62,16 +62,16 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1.texto-blanco Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente enlace.
+                  h3.mb-1.texto-blanco Para ampliar la información se requiere analizar la normatividad vigente; por lo tanto, se invita a explorar el siguiente enlace:
                   
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink(' https://www.nueva-iso-9001-2015.com/')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.nueva-iso-9001-2015.com/')" target="_blank")
                     span.px-4 Ver  
                     i.fas.fa-link
     separador
     #t_1_2.titulo-segundo
       h2 1.2 Portafolio de productos: características y tipos
-    p Teniendo en cuenta los cambios que presenta constantemente el mercado y las tecnologías de la información, las empresas se ven en la obligación de diseñar estrategias que permitan dar a conocer sus productos de una forma clara, creativa y ágil; por ende, diseñan portafolios de productos y/o servicios, donde se incorpora la diversidad de productos que ofrece, teniendo en cuenta sus características, precios y servicios posventa, proveedores, zonas y horarios de atención. Adicionalmente, relaciona el direccionamiento estratégico de la organización como lo es la misión, visión, objetivos y políticas, con el fin de dar a conocer la empresa y lograr que los clientes tengan un sentido de pertenencia por la misma.
+    p Teniendo en cuenta los cambios que presenta constantemente el mercado y las tecnologías de la información, las empresas se ven en la obligación de diseñar estrategias que permitan dar a conocer sus productos de una forma clara, creativa y ágil; por ende, diseñan portafolios de productos y/o servicios, donde se incorpora la diversidad de productos que ofrecen, teniendo en cuenta sus características, precios y servicios posventa, proveedores, zonas y horarios de atención. Adicionalmente, relaciona el direccionamiento estratégico de la organización como lo es la misión, visión, objetivos y políticas, con el fin de dar a conocer la empresa y lograr que los clientes tengan un sentido de pertenencia por la misma.
     p.mb-5 El principal objetivo del portafolio es servir de herramienta de marketing, de esta manera, la empresa se da a conocer y, a su vez, presenta los productos y/o servicios, siendo un medio de publicidad que permite a la empresa incrementar su mercado objetivo.
 
     h4 Características
@@ -129,7 +129,7 @@
                   h3.mb-1.texto-blanco A continuación, se podrá profundizar la temática a través del siguiente enlace:
                   
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('https://www.nueva-iso-9001-2015.com/')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.nueva-iso-9001-2015.com/')" target="_blank")
                     span.px-4 Ver  
                     i.fas.fa-link    
 

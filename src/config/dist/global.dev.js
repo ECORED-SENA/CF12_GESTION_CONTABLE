@@ -132,7 +132,7 @@ var _default = {
     referencia: 'Congreso de la República. (18 de octubre de 2012). Ley 1581 de 2012.',
     link: 'http://www.secretariasenado.gov.co/senado/basedoc/ley_1581_2012.html'
   }, {
-    referencia: 'Da Silva, D. (2020). Protocolo de atención y servicio al cliente: ¿qué es, por qué es importante para tu empresa, ¿cómo hacerlo y cuáles son sus ventajas?',
+    referencia: 'Da Silva, D. (2020). Protocolo de atención y servicio al cliente: ¿qué es, por qué es importante para tu empresa, cómo hacerlo y cuáles son sus ventajas?',
     link: 'https://www.zendesk.com.mx/blog/protocolo-de-atencion-al-cliente/'
   }, {
     referencia: 'Fórmate. (16 de agosto de 2017). 5 consejos y técnicas de comunicación con el cliente. ',
@@ -150,7 +150,8 @@ var _default = {
     referencia: 'Pérez, O. (13 marzo de 2017). 5 reportes esenciales para mejorar el servicio a clientes.',
     link: 'https://blog.nextup.com.mx/5-reportes-esenciales-para-mejorar-el-servicio-a-clientes'
   }, {
-    referencia: 'Pérez, P., y Merino, M. (2021). Definición de protocolo. https://definicion.de/protocolo/'
+    referencia: 'Pérez, P., y Merino, M. (2021). Definición de protocolo.',
+    link: 'https://definicion.de/protocolo/'
   }, {
     referencia: 'Prieto, J. E. (2018). Ciclo de los momentos de verdad. [Esquema]. Gerencia del servicio: La clave para ganar todos.',
     link: 'https://www.ecoeediciones.com/wp-content/uploads/2018/03/Gerencia-del-servicio-4ed.pdf'
@@ -190,10 +191,10 @@ var _default = {
     significado: 'normas y directrices aplicables en diferentes escenarios.'
   }, {
     termino: 'ISO',
-    significado: 'International Organization for Standardization. organismo emisor de normas internacionales enfocada a la calidad, seguridad y eficiencia de productos y servicios.'
+    significado: '  International Organization for Standardization. Organismo emisor de normas internacionales enfocada a la calidad, seguridad y eficiencia de productos y servicios.'
   }, {
     termino: 'Momentos de verdad',
-    significado: 'interacción que existe entre el cliente y la empresa. Se presenta una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultado se generan momentos negativos o positivos de acuerdo con la percepción del cliente y originadas por la experiencia obtenida desde que realizó contacto con la empresa.'
+    significado: 'interacción que existe entre el cliente y la empresa. Se presentan una serie de actividades y/o acciones con el fin de adquirir el producto o servicio, como resultado se generan momentos negativos o positivos de acuerdo con la percepción del cliente y originadas por la experiencia obtenida desde que realizó contacto con la empresa.'
   }, {
     termino: 'Servicio',
     significado: 'conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realiza contacto con la empresa hasta finalizar el ciclo del servicio.'
@@ -205,11 +206,11 @@ var _default = {
   }, {
     texto: 'Política de Atención al Cliente - Pymerang.	Ugalde, R., A., (16 de septiembre de 2019) Política de Atención al Cliente. Pymerang.com',
     tipo: 'Página web',
-    descarga: 'http://www.pymerang.com/direccion-de-negocios/1003-cuando-la-responsabilidad-social-mejora-el-servicio-al-cliente'
+    link: 'http://www.pymerang.com/direccion-de-negocios/1003-cuando-la-responsabilidad-social-mejora-el-servicio-al-cliente'
   }, {
     texto: 'Métricas e indicadores para la gestión de servicios ITL.	Fernández, P., J. L. (14 de septiembre de 2019). Midiendo ITIL, métricas e indicadores para la gestión de servicios ITL. Proactivanet.com',
     tipo: 'Página web',
-    link: 'https://www.proactivanet.com/UserFiles/File/Noticias/Metricas%20ITIL.pdf'
+    descarga: '/downloads/Metricas_ITIL.pdf'
   }],
   creditos: {
     liderEquipo: [{
@@ -220,11 +221,23 @@ var _default = {
     contenidoInstruccional: [{
       nombre: 'Rafael Neftalí Lizcano Reyes',
       cargo: 'Asesor metodológico y pedagógico',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
+      centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander'
+    }, {
+      nombre: 'Patricia Mantilla Galvis',
+      cargo: 'Instructora',
+      centro: 'Centro de Servicios Financieros - Regional Distrito Capital'
     }, {
       nombre: 'Maryuri Agudelo Franco',
       cargo: 'Diseñadora instruccional',
-      centro: 'Centro de Diseño y Metrología Regional Distrito Capital'
+      centro: 'Centro de Diseño y Metrología - Regional Distrito Capital'
+    }, {
+      nombre: 'Vilma Lucía Perilla M',
+      cargo: 'Revisora metodológica y pedagógica',
+      centro: 'Centro de Gestión Industrial - Regional Distrito Capital'
+    }, {
+      nombre: 'José Gabriel Ortiz Abella',
+      cargo: 'Corrector de estilo',
+      centro: 'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital'
     }],
     desarrolloProducto: [{
       nombre: 'Francisco José Lizcano Reyes',
@@ -235,49 +248,21 @@ var _default = {
       cargo: 'Soporte organizacional',
       centro: 'Centro de Comercio y Servicios Regional Tolima'
     }, {
-      nombre: 'Marcela Gonzalez',
+      nombre: 'Marcela Gonzalez Gómez',
       cargo: 'Diseño web',
       centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
     }, {
       nombre: 'Jorge Leonardo Camacho Pardo',
       cargo: 'Desarrollo Front-End',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
+      centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander'
     }, {
       nombre: 'Zuleidy Maria Ruiz Torres',
       cargo: 'Producción audiovisual',
-      centro: 'Centro de Comercio y Servicios Regional Tolima'
+      centro: 'Centro de Comercio y Servicios - Regional Tolima'
     }, {
-      nombre: 'Wilson Andrés Arenales Caceres',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'Gilberto Junior Rodriguez Rodriguez',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'Víctor Raúl Cárdenas Cáceres ',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'Jessica Moreno Realpe',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'Lady Adriana Ariza Luque',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'María Camila Ovalle',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'Ricardo Vásquez Arroyave',
-      cargo: 'Producción audiovisual',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
-    }, {
-      nombre: 'Yuli Marcela Gómez Tarazona',
+      nombre: 'Jenny Paola Montillo Gélvez',
       cargo: 'Validación de diseño y contenido',
-      centro: 'Centro Industrial del Diseño y la Manufactura Regional Santander'
+      centro: 'Centro Industrial del Diseño y la Manufactura - Regional Santander'
     }],
     gestoresRepositorio: [{
       nombre: 'Milady Tatiana Villamil Castellanos',

@@ -17,16 +17,16 @@
         figure
           img(src='@/assets/tema2/img-1.svg', alt='Marketing')    
 
-    p.mb-5 Con el fin de avanzar y generar un aprendizaje significativo, a continuación, se presenta la definición de servicio atendiendo a los siguientes autores:  
+    p.mb-5 Con el fin de avanzar y generar un aprendizaje significativo, a continuación, se presenta la definición de  #[strong servicio] atendiendo a los siguientes autores:  
     .row.mb-5        
       .col-md-3
         .bloque-texto-e.color-secundario.p-4
 
           .bloque-texto-e__text
             i.fas.fa-quote-left
-            p.text-bold Es toda acción que usted hace para motivar a un cliente
+            p.text-bold Es toda acción que usted hace para motivar a un cliente.
             
-            p.text-regular (Prieto, 2018, p. 6)
+            p.text-regular (Prieto, 2018, p. 6).
             i.fas.fa-quote-right.d-flex.justify-content-end
 
 
@@ -52,7 +52,7 @@
             br
             p.text-bold El servicio es la forma de satisfacer permanente y totalmente las necesidades, deseos, apetencias e inquietudes de un cliente (p. 7). 
             i.fas.fa-quote-right.d-flex.justify-content-end     
-    p Con base en los conceptos anteriores, se puede expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realiza contacto con la empresa hasta finalizar el ciclo del servicio. Es de recordar que este se realiza de forma individual teniendo en cuenta las características del cliente, sus necesidades y expectativas; por lo anterior, se requiere realizar una bitácora informativa que permita conocer sus preferencias, comportamientos de compra, uso y consumo. 
+    p Con base en los conceptos anteriores, se puede expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes desde que realizan contacto con la empresa hasta finalizar el ciclo del servicio. Es de recordar que este se realiza de forma individual teniendo en cuenta las características del cliente, sus necesidades y expectativas; por lo anterior, se requiere realizar una bitácora informativa que permita conocer sus preferencias, comportamientos de compra, uso y consumo. 
     p.mb-5 En la actualidad existen herramientas que contribuyen al mejoramiento de las relaciones con el cliente; lo que se denomina gestión de las relaciones, esta estrategia combina la tecnología de la información con la cultura organizacional, donde el principal objetivo es mantener excelentes relaciones y satisfacer las necesidades de los clientes.
     .row.justify-content-around.align-items-center.px-5.my-5 
       .col-12.col-lg-auto.justify-content-md-center.mb-4  
@@ -99,23 +99,24 @@
 
 
     .row.justify-content-around.align-items-center.mb-5
+      p.mb-5 #[strong Sugerencias del ciclo del servicio]  
       .col-lg-10.justify-content-md-center.align-self-center.mb-5
-        img(src="@/assets/tema2/img-4.svg")
-
-    p.mb-0.text-center #[strong Figura 1]        
+        img(src="@/assets/tema2/img-4-.svg")
+    p.mb-5 A continuación, se presenta, como ejemplo, el ciclo del servicio de un restaurante.
+          
     p.text-center Atención al cliente: ciclo del servicio 
 
     .row.justify-content-around.align-items-center.mb-5
-      .col-lg-10.justify-content-md-center.align-self-center
+      .col-lg-9.justify-content-md-center.align-self-center
         figure.mb-5
           img.mb-2(src="@/assets/tema2/img-5-.svg")
           figcaption Nota. Tomada de Abello y Abello (2016)
 
     h4 Momentos de verdad            
     p Es la interacción que existe entre el cliente y la empresa. Aquí se presentan una serie de actividades y/o acciones con el fin de adquirir el producto o servicio y como resultado se generan momentos negativos o positivos de acuerdo con la percepción del cliente, originadas por la experiencia obtenida desde que realizó contacto con la empresa. 
-    p El objetivo es anticiparse a dichos momentos y de esta manera implementar estrategias que contribuyan a obtener experiencias positivas y satisfactorias para los clientes. Cabe resaltar que la actitud y compromiso de los colaboradores inciden directamente en la percepción de estos; por ende, la importancia de capacitarlos y generar un clima organizacional para beneficio de las partes interesadas.
+    p.mb-5 El objetivo es anticiparse a dichos momentos y de esta manera implementar estrategias que contribuyan a obtener experiencias positivas y satisfactorias para los clientes. Cabe resaltar que la actitud y compromiso de los colaboradores inciden directamente en la percepción de estos; por ende, la importancia de capacitarlos y generar un clima organizacional para beneficio de las partes interesadas.
 
-    p.mb-0.text-center #[strong Figura 2]        
+      
     p.text-center Esquema de un momento de verdad
 
     .row.justify-content-around.align-items-center.mb-5
@@ -124,9 +125,7 @@
           img.mb-2(src="@/assets/tema2/img-6-.svg")
           figcaption Nota. Tomada de Prieto (2018)
 
-    h4 Tipos de momentos de verdad           
-    p Los momentos de verdad se encuentran clasificados en:
-
+    
     .row2.fond2.p-4.mb-5
 
       .crd_03
@@ -135,15 +134,16 @@
             h1.cc3 a
 
         .crd_03__txt
-         
-          h4  Los ciclos de servicio permiten:        
-          .ul.lista-ul--color
-            li 
-              i.fas.fa-check
-              p #[strong Momentos dulces:] es la percepción positiva del cliente que logra satisfacer sus necesidades y expectativas, logrando su fidelización y permanencia con la organización.
-            li 
-              i.fas.fa-check
-              p #[strong Momentos amargos:] hace referencia a la experiencia obtenida por el cliente la cual no logra satisfacer sus necesidades y expectativas.
+           h4 Tipos de momentos de verdad
+           p Los momentos de verdad se encuentran clasificados en:
+
+            .ul.lista-ul--color
+              li 
+                i.fas.fa-check
+                p #[strong Momentos dulces:] es la percepción positiva del cliente que logra satisfacer sus necesidades y expectativas, logrando su fidelización y permanencia con la organización.
+              li 
+                i.fas.fa-check
+                p #[strong Momentos amargos:] hace referencia a la experiencia obtenida por el cliente la cual no logra satisfacer sus necesidades y expectativas.
 
     .row2.fond2.p-4.mb-5
 
@@ -172,7 +172,7 @@
               | #[strong Momento final:] #[span(style="margin.left:5px;")  ]experiencia del cliente.
             hr
 
-    p.mb-0.text-center #[strong Figura 3]        
+         
     p.mb-5.text-center Ciclo de los momentos de verdad 
 
     .row.justify-content-around.align-items-center.mb-5
@@ -189,7 +189,7 @@
 
        
 
-    p.mb-0.text-center #[strong Figura 4]        
+     
     p.mb-5.text-center Triángulo del servicio 
 
     .row.justify-content-around.align-items-center.mb-5
@@ -227,7 +227,7 @@
             .crd_03__txt
             
               h4 Estandarizar procesos:        
-              p permite la unificación de los criterios aplicables.
+              p Permite la unificación de los criterios aplicables.
               br
          .crd_03.hr2
             .crd_03__icon.mx-4
@@ -237,7 +237,7 @@
             .crd_03__txt
             
               h4 Atención y servicio consistente:        
-              p existen directrices claras que son aplicadas por los colaboradores de forma consistente.
+              p Existen directrices claras que son aplicadas por los colaboradores de forma consistente.
 
       .col-6
         .row
@@ -248,8 +248,8 @@
 
             .crd_03__txt
             
-              h4 Sirve como guía en las capacitaciones  
-              p los colaboradores tienen conocimiento de las normas básicas y se motiva a realizar capacitaciones de mejoramiento continuo. 
+              h4 Sirve como guía en las capacitaciones:  
+              p Los colaboradores tienen conocimiento de las normas básicas y se motiva a realizar capacitaciones de mejoramiento continuo. 
          .crd_03.hr2
             .crd_03__icon.mx-4
               .cc1
@@ -258,7 +258,7 @@
             .crd_03__txt
             
               h4 Evitar pérdidas financieras:        
-              p un cliente feliz y satisfecho genera fidelización y rentabilidad. (Da Silva, 2020).
+              p Un cliente feliz y satisfecho genera fidelización y rentabilidad. (Da Silva, 2020).
 
     h4 Normas técnicas
     p.mb-5 Dentro de las normas técnicas aplicables se encuentra la norma ISO 9001:2015, que expresa:        
@@ -289,7 +289,7 @@
                   p.mb-1.texto-blanco Para ampliar la información, se debe explorar la normatividad vigente, revisando el siguiente enlace para profundizar en la temática.
                   
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('https://www.nueva-iso-9001-2015.com/')" target="_blank")
+                  a.boton.color-acento-botones(:href="('https://www.nueva-iso-9001-2015.com/')" target="_blank")
                     span.px-4 Ver  
                     i.fas.fa-link    
 
@@ -340,7 +340,7 @@
             h3 Infografía 
           p Los clientes hacen parte del activo más importante de la empresa, pues es lo que les permite posicionarse en el mercado, contribuyendo notablemente en el crecimiento económico mediante la generación de ingresos, disminuye costos de marketing, debilita la competencia, aumenta la reputación y el buen nombre de la organización y, finalmente, contribuye al mejoramiento continuo de los procesos frente a los productos y/o servicios ofertados.
           br
-          a.boton--sm.color-acento-botones.me-3(:href="obtenerLink('/downloads/Propuesta_metodologica.pdf')" target="_blank" type="application/pdf")
+          a.boton--sm.color-acento-botones.me-3(:href="obtenerLink('/downloads/Cliente-o-usuario.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
     br       
@@ -377,10 +377,10 @@
             h4  Clientes activos e inactivos  
             .ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Clientes activos:] son los que actualmente adquieren el producto y/o servicio o lo realizaron en un periodo corto.
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Clientes inactivos:] son aquellos que en algún momento adquirieron el producto y/o servicio, no continúan activos, lo que indica que hay insatisfacción, no se logró fidelizarlos y/o finalmente no necesitan el producto o servicio. 
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
@@ -400,10 +400,10 @@
             p.mb-3 Son los individuos y empresas que adquieren el producto o servicio y constituyen la principal fuente de ingresos, los cuales cumplen sus expectativas, incluyendo el servicio.
             .ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Habitual:] son aquellos que adquieren el producto o servicio de forma regular.
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Ocasional:] son aquellos que adquieren el producto o servicio de forma esporádica.
 
 
@@ -423,13 +423,13 @@
             h4  Clientes de alto, promedio y bajo volumen de compras
             .ul.lista-ul--color
               li.lii 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Alto:] son los clientes que realizan compras en grandes volúmenes y representan el mayor ingreso para la empresa.
               li.lii 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Promedio:] son los clientes que se encuentran dentro del promedio general de compradores.
               li.lii  
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Bajo:] son los compradores que adquieren, ocasionalmente, el producto.
 
 
@@ -449,13 +449,13 @@
             h4  Clientes complacidos, satisfechos e insatisfechos
             .ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Complacidos:] son los clientes que se encuentran satisfechos; por lo tanto, han #[strong superado] las expectativas.
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Satisfechos:] son los clientes que adquieren el producto y/o servicio, #[strong cumplen] con las expectativas
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Insatisfechos:] son los clientes que no encuentran afinidad con el producto y/o servicio, #[strong no cumplen] con sus expectativas.
 
 
@@ -475,13 +475,13 @@
             h4  Clientes influyentes
             .ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Altamente influyentes:] es el grado de convencimiento que ejercen algunos clientes en un individuo o grupo de personas, lo que hace que adquieran el producto y/o servicio.
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Regular influencia:] son aquellos clientes que ejercen influencia en un grupo reducido de individuos.
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Influencia nivel familiar:] el grado de influencia que se ejerce en el entorno familiar.
 
 
@@ -502,14 +502,14 @@
             p son los individuos o empresas que se consideran pueden ser clientes en un futuro, para lo cual se desarrollan estrategias de marketing con el fin de ampliar el mercado objetivo.
             .ul.lista-ul--color
               li 
-                i.fas.fa-check
+                i.fas.fa-check.ll
                 p #[strong Clientes potenciales según su frecuencia:] está relacionado con los periodos cortos o largos en que el cliente potencial podría adquirir el producto y/o servicio. Se clasifican en frecuentes, habituales y ocasionales, su determinación se hace mediante la investigación de mercadeo.
               li 
-                i.fas.fa-check
-                p #[strong Clientes potenciales según volumen de compras:] hace énfasis a los clientes podrían adquirir el producto en alto, promedio o bajo promedio de compras.
+                i.fas.fa-check.ll
+                p #[strong Clientes potenciales según volumen de compras:] hace énfasis a los clientes que podrían adquirir el producto en alto, promedio o bajo promedio de compras.
               li 
-                i.fas.fa-check
-                p #[strong Clientes potenciales según su influencia:] es el grado de influencia que ejercen los clientes a un grupo determinado, se clasifican en altamente influyente, influencia regular e influencia familia (Thompson, I. 2006).
+                i.fas.fa-check.ll
+                p #[strong Clientes potenciales según su influencia:] es el grado de influencia que ejercen los clientes a un grupo determinado, se clasifican en altamente influyente, influencia regular e influencia familiar (Thompson, I. 2006).
 
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
@@ -529,9 +529,9 @@
         .bloque-texto-e.color-secundario.py-4
           .bloque-texto-e__text.px-5
             i.fas.fa-quote-left
-            p.text-bold La comunicación es un proceso mediante el cual transmitimos y/o recibimos información, opiniones y actividades
+            p.text-bold La comunicación es un proceso mediante el cual transmitimos y/o recibimos información, opiniones y actividades.
          
-            p.text-regular (Prieto, 2002)
+            p.text-regular (Prieto, 2002).
             
             i.fas.fa-quote-right.d-flex.justify-content-end
       .col-12.col-lg-auto.justify-content-md-center.mb-4             
@@ -593,7 +593,7 @@
           .tarjeta.fondo5
             .p-4
               p.text-center #[strong Comunicación verbal]
-              p.text-center está constituida por:
+              p.text-center Está constituida por:
               .ul.lista-ul--color
                 li 
                   i.fas.fa-check
@@ -608,7 +608,7 @@
           .tarjeta.fondo5
             .p-4
               p.text-center #[strong Comunicación no verbal]
-              p Hace referencia al lenguaje corporal que se transmite con los movimientos o gestos. Es importante tener en cuenta la gesticulación, pues de acuerdo con la expresión facial, forma gesticular, mirada, postura y actitud el cliente se puede llevar una percepción positiva o negativa.      
+              p Hace referencia al lenguaje corporal que se transmite con los movimientos o gestos. Es importante tener en cuenta la gesticulación, pues de acuerdo con la expresión facial, forma gesticular, mirada, postura y actitud, el cliente se puede llevar una percepción positiva o negativa.      
     br
     #t_2_3.titulo-segundo
       h2 2.3. Etiqueta y protocolo empresarial: concepto, reglas, imagen corporativa, normas de cortesía
@@ -659,7 +659,7 @@
             img(src='@/assets/tema22/img-18.svg' alt='AvatarTop' )
           .crd_02__txt.m-4
             .h4 Uso de desodorantes y perfumes:
-            p Evitar aromas fuertes, es importante que sean discretos.  Es importante el manejo de colores y el tamaño con el fin de manejar un vestuario adecuado según las políticas diseñadas. 
+            p Evitar aromas fuertes, es importante que sean discretos.  
         .hr2.mx-4 
 
         .crd_03.p-0
