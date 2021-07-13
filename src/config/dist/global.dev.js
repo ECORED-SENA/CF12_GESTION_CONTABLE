@@ -231,7 +231,7 @@ var _default = {
       cargo: 'Diseñadora instruccional',
       centro: 'Centro de Diseño y Metrología - Regional Distrito Capital'
     }, {
-      nombre: 'Vilma Lucía Perilla M',
+      nombre: 'Vilma Lucía Perilla M.',
       cargo: 'Revisora metodológica y pedagógica',
       centro: 'Centro de Gestión Industrial - Regional Distrito Capital'
     }, {
