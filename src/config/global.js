@@ -377,7 +377,36 @@ export default {
         cargo: 'Producción audiovisual',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
-
+      {
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Víctor Raúl Cárdenas Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
       {
         nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
