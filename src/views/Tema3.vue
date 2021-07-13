@@ -139,7 +139,7 @@
 
             .col-md-6
               figure
-                img(src='@/assets/tema3/img-4.svg', alt='Texto que describa la imagen')
+                img.img-350(src='@/assets/tema3/img-4.svg', alt='Texto que describa la imagen')
                 
           .row.tar(numero="2" titulo="Listado de casos pendientes")
             .col-md-6.mb-4.mb-md-0
@@ -220,69 +220,63 @@
     p.mb-5 Para atender oportunamente las solicitudes, peticiones y requerimientos de los clientes es fundamental otorgar respuesta en el menor tiempo posible con el fin de lograr la satisfacción y fidelización de este. Por ello, existen técnicas de optimización de tiempo, entre las cuales figuran:                 
 
 
-    .row.mb-5
-      .col-6
-        .row.px-4
-         .crd_03.hr1
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 1
+    .row.mb-4
+      .col-lg-6.mb-4.mb-lg-0
+        .row.align-items-center.h_100.sep_02
+          .col-auto
+            span.custom_Number 1
+          .col
+            h4 Investigación de prospectos: 
+            p.mb-0 Para ello se debe conocer el cliente, su comportamiento y características con el fin de determinar el tiempo justo de respuesta, lo que conducirá a fidelizar y aumentar clientes.  
+         
+      .col-lg-6
+        .row.align-items-center.h_100.sep_02
+          .col-auto
+            span.custom_Number 2
+          .col
+            h4 Envío de mensajes por el canal idóneo: 
+            p.mb-0 De acuerdo con el perfil de cliente, se observa cuál es el canal de comunicación más adecuado para proporcionar la información. 
+        
 
-            .crd_03__txt
-            
-              h4 Investigación de prospectos: 
-              p Para ello se debe conocer el cliente, su comportamiento y características con el fin de determinar el tiempo justo de respuesta, lo que conducirá a fidelizar y aumentar clientes. 
-             
-         .crd_03.hr2
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 2
+    .row.mb-4
+      .col-lg-6.mb-4.mb-lg-0
+        
+        .row.align-items-center.h_100.sep_02 
+        
+          .col-auto
+            span.custom_Number 3
+          .col
+            h4 Difundir mensajes en periodos de descanso: 
+            p.mb-0 Se debe buscar el tiempo propicio para dar respuesta, teniendo en cuenta las diversas actividades que realizan los clientes a diario.  
+         
+      .col-lg-6
+        .row.align-items-center.h_100.sep_02 
+          .col-auto
+            span.custom_Number 4
+          .col
+            h4 Adecuar la información a sus necesidades: 
+            p.mb-0 Se trata de ser detallado y claro con la información que se suministra para anticiparse a los eventos y disminuir algún tipo de solicitud de los clientes.
+        
 
-            .crd_03__txt
-            
-              h4 Envío de mensajes por el canal idóneo: 
-              p De acuerdo con el perfil de cliente, se observa cuál es el canal de comunicación más adecuado para proporcionar la información. 
-         .crd_03.hr2
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 3
+    .row.mb-4
+      .col-lg-6.mb-4.mb-lg-0
+        .row.align-items-center.h_100.sep_02
+          .col-auto
+            span.custom_Number 5
+          .col
+            h4 Más planificación y organización: 
+            p.mb-0 Se requiere planificación y organización para atender los requerimientos de los clientes en el tiempo justo, dando respuesta y solución a los mismos.
+       
+      .col-lg-6
+        .row.align-items-center.h_100.sep_02
+          .col-auto
+            span.custom_Number 6
+          .col
+            h4 Seguimiento y control:
+            p Todo proceso se debe monitorear con el fin de generar acciones correctivas que contribuyan al mejoramiento continuo de la organización. Simplemente lo que no se mide y controla, no funciona adecuadamente (WTS, 2019).
+                
 
-            .crd_03__txt
-            
-              h4 Difundir mensajes en periodos de descanso: 
-              p Se debe buscar el tiempo propicio para dar respuesta, teniendo en cuenta las diversas actividades que realizan los clientes a diario. 
-              br
 
-
-      .col-6
-        .row
-         .crd_03.hr1
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 4
-
-            .crd_03__txt
-            
-              h4 Adecuar la información a sus necesidades: 
-              p Se trata de ser detallado y claro con la información que se suministra para anticiparse a los eventos y disminuir algún tipo de solicitud de los clientes.
-         .crd_03.hr2
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 5
-
-            .crd_03__txt
-            
-              h4 Más planificación y organización: 
-              p Se requiere planificación y organización para atender los requerimientos de los clientes en el tiempo justo, dando respuesta y solución a los mismos. 
-         .crd_03.hr2
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 6
-
-            .crd_03__txt
-            
-              h4 Seguimiento y control:
-              p Todo proceso se debe monitorear con el fin de generar acciones correctivas que contribuyan al mejoramiento continuo de la organización. Simplemente lo que no se mide y controla, no funciona adecuadamente (WTS, 2019).
 
 
          

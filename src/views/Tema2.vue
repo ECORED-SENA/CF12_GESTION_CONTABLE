@@ -19,7 +19,7 @@
 
     p.mb-5 Con el fin de avanzar y generar un aprendizaje significativo, a continuación, se presenta la definición de  #[strong servicio] atendiendo a los siguientes autores:  
     .row.mb-5        
-      .col-md-3
+      .col-md-3.mb-3
         .bloque-texto-e.color-secundario.p-4
 
           .bloque-texto-e__text
@@ -29,13 +29,8 @@
             p.text-regular (Prieto, 2018, p. 6).
             i.fas.fa-quote-right.d-flex.justify-content-end
 
-
-
-
-
-
             
-      .col-5
+      .col-md-5.mb-3
         .bloque-texto-e.color-secundario.p-4
           .bloque-texto-e__text
             i.fas.fa-quote-left
@@ -44,7 +39,7 @@
             p.text-bold El servicio es un intangible que solo se conoce en su real valor cuando se utiliza. Es el conjunto de prestaciones que el cliente espera recibir, por el que paga y en relación con el precio, la imagen y la representación de la firma que lo presta (p. 6). 
             
             i.fas.fa-quote-right.d-flex.justify-content-end
-      .col-4
+      .col-md-4.mb-3
         .bloque-texto-e.color-secundario.p-4
           .bloque-texto-e__text
             i.fas.fa-quote-left
@@ -155,22 +150,23 @@
         .crd_03__txt
          
           h4.mb-5 Etapas de momentos de verdad
-          ol.lista-ol--cuadro.lista-ol
-            li.my-3
-              .lista-ol--cuadro__vineta
-                span.mb-5 1
-              | #[strong Momento inicial: ] #[span(style="margin.left:5px;")  ]primer contacto entre el cliente y la empresa.
-            hr
-            li.my-3 
-              .lista-ol--cuadro__vineta
-                span 2
-              | #[strong Momento crítico:] #[span(style="margin.left:5px;")  ]periodo en el cual se toma la decisión.
-            hr
-            li.my-3 
-              .lista-ol--cuadro__vineta
-                span 3
-              | #[strong Momento final:] #[span(style="margin.left:5px;")  ]experiencia del cliente.
-            hr
+          .row
+          .col-12
+            p.mb-0 #[span.square 1] #[strong Momento inicial:]  primer contacto entre el cliente y la empresa.
+          .sep_01
+          .col-12
+            p.mb-0 #[span.square 2] #[strong Momento crítico:]  periodo en el cual se toma la decisión.
+          .sep_01
+          .col-12
+            p.mb-0 #[span.square 3] #[strong Momento final:]  experiencia del cliente.
+          .sep_01          
+
+
+
+
+
+
+
 
          
     p.mb-5.text-center Ciclo de los momentos de verdad 
@@ -216,49 +212,52 @@
                   img(src='@/assets/tema2/img-10.svg', alt='Promoción de ventas')
 
     h4.mb-4 Ventajas
+
+    .row.mb-4
+      
+      .col-lg-6.mb-4.mb-lg-0
+        
+        .row.align-items-center.h_100
+          
+          .col-auto
+            span.custom_Number 1
+          .col
+            h4 Estandarizar procesos:        
+            p.mb-0 Permite la unificación de los criterios aplicables.   
+        .sep_01.mx-4  
+      .col-lg-6
+        .row.align-items-center.h_100
+          .col-auto
+            span.custom_Number 2
+          .col
+            h4 Atención y servicio consistente:        
+            p.mb-0 Existen directrices claras que son aplicadas por los colaboradores de forma consistente.
+        
+        .sep_01.mx-4
+        
     .row.mb-5
-      .col-6
-        .row.px-4
-         .crd_03.hr1
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 1
+      .col-lg-6.mb-4.mb-lg-0
+        .row.align-items-center.h_100
+          .col-auto
+            span.custom_Number 3
+          .col
+            h4 Sirve como guía en las capacitaciones:  
+            p.mb-0 Los colaboradores tienen conocimiento de las normas básicas y se motiva a realizar capacitaciones de mejoramiento continuo.  
+        .sep_01.mx-4  
+      .col-lg-6
+        .row.align-items-center.h_100
+          .col-auto
+            span.custom_Number 4
+          .col
+            h4 Evitar pérdidas financieras:        
+            p.mb-0 Un cliente feliz y satisfecho genera fidelización y rentabilidad. (Da Silva, 2020).
+        .sep_01.mx-4
 
-            .crd_03__txt
+    br
+
+
             
-              h4 Estandarizar procesos:        
-              p Permite la unificación de los criterios aplicables.
-              br
-         .crd_03.hr2
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 2
-
-            .crd_03__txt
-            
-              h4 Atención y servicio consistente:        
-              p Existen directrices claras que son aplicadas por los colaboradores de forma consistente.
-
-      .col-6
-        .row
-         .crd_03.hr1
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 3
-
-            .crd_03__txt
-            
-              h4 Sirve como guía en las capacitaciones:  
-              p Los colaboradores tienen conocimiento de las normas básicas y se motiva a realizar capacitaciones de mejoramiento continuo. 
-         .crd_03.hr2
-            .crd_03__icon.mx-4
-              .cc1
-                h1.cc3 4
-
-            .crd_03__txt
-            
-              h4 Evitar pérdidas financieras:        
-              p Un cliente feliz y satisfecho genera fidelización y rentabilidad. (Da Silva, 2020).
+              
 
     h4 Normas técnicas
     p.mb-5 Dentro de las normas técnicas aplicables se encuentra la norma ISO 9001:2015, que expresa:        
@@ -385,7 +384,7 @@
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
         figure.p-1
-              img(src='@/assets/tema22/img-4.svg', alt='')
+              img.img-250(src='@/assets/tema22/img-4.svg', alt='')
 
     .row.fond2.mb-4
       .col-lg
@@ -409,7 +408,7 @@
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
         figure.p-1
-              img(src='@/assets/tema22/img-5.svg', alt='')      
+              img.img-250(src='@/assets/tema22/img-5.svg', alt='')      
 
     .row.fond2.mb-4
       .col-lg
@@ -435,7 +434,7 @@
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
         figure.p-1
-              img(src='@/assets/tema22/img-6.svg', alt='')      
+              img.img-250(src='@/assets/tema22/img-6.svg', alt='')      
 
     .row.fond2.mb-4
       .col-lg
@@ -461,7 +460,7 @@
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
         figure.p-1
-              img(src='@/assets/tema22/img-7.svg', alt='')      
+              img.img-250(src='@/assets/tema22/img-7.svg', alt='')      
 
     .row.fond2.mb-4
       .col-lg
@@ -487,7 +486,7 @@
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
         figure.p-1
-              img(src='@/assets/tema22/img-8.svg', alt='')      
+              img.img-250(src='@/assets/tema22/img-8.svg', alt='')      
 
     .row.fond2.mb-4
       .col-lg
@@ -514,7 +513,7 @@
 
       .col-12.col-lg-auto.justify-content-md-center.mx-5
         figure.p-1
-              img(src='@/assets/tema22/img-9.svg', alt='')      
+              img.img-250(src='@/assets/tema22/img-9.svg', alt='')      
     
 
 
@@ -536,7 +535,7 @@
             i.fas.fa-quote-right.d-flex.justify-content-end
       .col-12.col-lg-auto.justify-content-md-center.mb-4             
         figure
-              img(src='@/assets/tema22/img-10.svg', alt='')  
+              img.img-250(src='@/assets/tema22/img-10.svg', alt='')  
 
     p De acuerdo con lo anterior, se puede resaltar que la comunicación es la interacción que ejercen dos personas con el fin de dar a conocer algún tipo de información; por ello, es importante que exista comunicación de doble vía y tener en cuenta las técnicas y fortalecimiento de habilidades para lograr una comunicación eficaz.
 
@@ -620,79 +619,78 @@
     h4.mb-4 Imagen corporativa        
     p.mb-5 La imagen corporativa la otorgan los colaboradores; por ello, es importante seguir los lineamientos establecidos con el fin de que la empresa pueda proyectar la imagen positiva de acuerdo con los objetivos propuestos, conforme lo anterior, se debe tener en cuenta: 
     .row.justify-content-around.align-items-center.mb-5
+
       .col-lg-9.justify-content-md-center.align-self-center
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
-            img(src='@/assets/tema22/img-14.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+        .row
+          .col-auto 
+            img(src='@/assets/tema22/img-14.svg' alt='AvatarTop')
+          .col-lg
             .h4 El vestuario: 
             p Es importante el manejo de colores y el tamaño con el fin de manejar un vestuario adecuado según las políticas diseñadas. 
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5 
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-15.svg' alt='AvatarTop' )
-          .crd_02__txt.m-4
+          .crd_02__txt
             .h4 El cabello y manos:
             p Es importante tener un cabello y uñas organizadas y pulcras, además de analizar lo que le favorece de acuerdo con las características del individuo y las políticas de la empresa. 
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5  
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-16.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+          .col-lg
             .h4 Sonrisa:
             p Esta refleja amabilidad, actitud positiva y disposición. De igual forma, se debe tener en cuenta la higiene oral.
-        .hr2.mx-4 
-
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .hr2.mx-4.mb-5  
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-17.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+          .col-lg
             .h4 El tono de voz: 
             p El tono de voz influye en la percepción del cliente.
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5  
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-18.svg' alt='AvatarTop' )
-          .crd_02__txt.m-4
+          .col-lg
             .h4 Uso de desodorantes y perfumes:
             p Evitar aromas fuertes, es importante que sean discretos.  
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5 
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-19.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+          .col-lg
             .h4 El maquillaje: 
             p Debe ser suave y discreto. El maquillaje va de acuerdo con la ocasión y el vestuario. 
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-20.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+          .col-lg
             .h4 El uso de accesorios: 
             p Utilizar accesorios sencillos y discretos.  
-        .hr2.mx-4 
-
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .hr2.mx-4.mb-5 
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-21.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+          .col-lg
             .h4 Empatía: 
             p Es importante la afinidad y capacidad de identificarse con los individuos que ejercen algún tipo de interacción. 
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5 
 
-        .crd_03.p-0
-          .crd_03__icon.m-3
+        .row
+          .col-auto 
             img(src='@/assets/tema22/img-22.svg' alt='AvatarTop' )
-          .crd_03__txt.m-4
+          .col-lg
             .h4 Ser educado y cortés: 
             p Los principios y valores definen a una persona y por ende a la empresa que representa (Cámara de comercio de Bogotá, 2010).
-        .hr2.mx-4 
+        .hr2.mx-4.mb-5 
 
     h4  Normas de cortesía
     p Las normas de cortesía permiten generar lazos de seguridad y confianza para mantener excelentes relaciones interpersonales. De acuerdo con ello es importante:
