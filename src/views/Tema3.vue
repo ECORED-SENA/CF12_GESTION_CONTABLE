@@ -172,7 +172,7 @@
             .col-md-6
               figure
                 img.img-350(src='@/assets/tema3/img-8.svg', alt='Texto que describa la imagen')
-    br
+    separador
     #t_3_5.titulo-segundo
       h2 3.5 Respuesta: definición, técnicas, tiempo
     p A diario las organizaciones deben dar respuesta a los diferentes requerimientos y solicitudes de sus clientes; por ello, deben contar con personal que tenga suficiente experiencia en los procesos, productos y servicios para resolver oportunamente cualquier inquietud que se derive del desarrollo normal de las operaciones de la empresa.
