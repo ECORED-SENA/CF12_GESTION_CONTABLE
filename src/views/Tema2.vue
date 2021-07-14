@@ -619,7 +619,7 @@
       .col-lg.align-self-center
           .titulo-segundo
             h3 Infografía 
-          p En el entorno empresarial los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad positiva, para ello lo invitamos a consultar la siguiente infografía.
+          p De acuerdo con la Cámara de Comercio de Bogotá (2010), en el entorno empresarial los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad de forma positiva; según el trato ofrecido a los clientes externos se genera una percepción favorable.
           br
           a.boton--sm.color-acento-botones.me-3(:href="obtenerLink('/downloads/Etiqueta y protocolo empresarial.pdf')" target="_blank" type="application/pdf")
             span Descargar
