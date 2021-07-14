@@ -611,9 +611,19 @@
     #t_2_3.titulo-segundo
       h2 2.3. Etiqueta y protocolo empresarial: concepto, reglas, imagen corporativa, normas de cortesía
 
-    .row.justify-content-around.align-items-center
-      figure.mb-5.mx-5
-        img(src='@/assets/tema2/Etiqueta-y-protocolo-empresarial.png', alt='Etiqueta y protocolo empresarial: concepto, reglas, imagen corporativa, normas de cortesía')
+    .row.fond3.p-5.mb-5
+      .col-12.col-lg-auto.align-self-center.mb-4.mx-5
+        figure
+          img(src='@/assets/tema2/img_info.svg', alt='Texto que describa la imagen')
+
+      .col-lg.align-self-center
+          .titulo-segundo
+            h3 Infografía 
+          p En el entorno empresarial los clientes internos deben aplicar normas y reglas de conducta, valores, principios, cultura general y educación con el fin de reflejar la imagen corporativa de la entidad positiva, para ello lo invitamos a consultar la siguiente infografía.
+          br
+          a.boton--sm.color-acento-botones.me-3(:href="obtenerLink('/downloads/Etiqueta y protocolo empresarial.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download
 
 
     h4.mb-4 Imagen corporativa        
