@@ -99,7 +99,7 @@
         img(src="@/assets/tema2/img-4-.svg")
     p.mb-5 A continuación, se presenta, como ejemplo, el ciclo del servicio de un restaurante.
           
-    p.text-center Atención al cliente: ciclo del servicio 
+    p.text-center.text-bold Atención al cliente: ciclo del servicio 
 
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-9.justify-content-md-center.align-self-center
@@ -112,7 +112,7 @@
     p.mb-5 El objetivo es anticiparse a dichos momentos y de esta manera implementar estrategias que contribuyan a obtener experiencias positivas y satisfactorias para los clientes. Cabe resaltar que la actitud y compromiso de los colaboradores inciden directamente en la percepción de estos; por ende, la importancia de capacitarlos y generar un clima organizacional para beneficio de las partes interesadas.
 
       
-    p.text-center Esquema de un momento de verdad
+    p.text-center.text-bold Esquema de un momento de verdad
 
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-10.justify-content-md-center.align-self-center
@@ -152,24 +152,26 @@
           h4.mb-5 Etapas de momentos de verdad
           .row
           .col-12
-            p.mb-0 #[span.square 1] #[strong Momento inicial:]  primer contacto entre el cliente y la empresa.
+           .ul.lista-ul--color
+              li 
+                i #[span.square 1] 
+                p.mb-0 #[strong Momento inicial:] primer contacto entre el cliente y la empresa.
           .sep_01
           .col-12
-            p.mb-0 #[span.square 2] #[strong Momento crítico:]  periodo en el cual se toma la decisión.
+           .ul.lista-ul--color
+              li 
+                i #[span.square 2] 
+                p.mb-0 #[strong Momento crítico:]  periodo en el cual se toma la decisión.
           .sep_01
           .col-12
-            p.mb-0 #[span.square 3] #[strong Momento final:]  experiencia del cliente.
+           .ul.lista-ul--color
+              li 
+                i #[span.square 3] 
+                p.mb-0 #[strong Momento final:]  experiencia del cliente.
           .sep_01          
 
 
-
-
-
-
-
-
-         
-    p.mb-5.text-center Ciclo de los momentos de verdad 
+    p.mb-5.text-center.text-bold Ciclo de los momentos de verdad 
 
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-9.justify-content-md-center.align-self-center
@@ -186,7 +188,7 @@
        
 
      
-    p.mb-5.text-center Triángulo del servicio 
+    p.mb-5.text-center.text-bold Triángulo del servicio 
 
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-9.justify-content-md-center.align-self-center
@@ -254,10 +256,7 @@
         .sep_01.mx-4
 
     br
-
-
-            
-              
+    
 
     h4 Normas técnicas
     p.mb-5 Dentro de las normas técnicas aplicables se encuentra la norma ISO 9001:2015, que expresa:        
@@ -612,9 +611,10 @@
     #t_2_3.titulo-segundo
       h2 2.3. Etiqueta y protocolo empresarial: concepto, reglas, imagen corporativa, normas de cortesía
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+    .row.justify-content-around.align-items-center
+      figure.mb-5.mx-5
+        img(src='@/assets/tema2/Etiqueta-y-protocolo-empresarial.png', alt='Etiqueta y protocolo empresarial: concepto, reglas, imagen corporativa, normas de cortesía')
+
 
     h4.mb-4 Imagen corporativa        
     p.mb-5 La imagen corporativa la otorgan los colaboradores; por ello, es importante seguir los lineamientos establecidos con el fin de que la empresa pueda proyectar la imagen positiva de acuerdo con los objetivos propuestos, conforme lo anterior, se debe tener en cuenta: 
@@ -633,7 +633,7 @@
         .row
           .col-auto 
             img(src='@/assets/tema22/img-15.svg' alt='AvatarTop' )
-          .crd_02__txt
+          .col-lg
             .h4 El cabello y manos:
             p Es importante tener un cabello y uñas organizadas y pulcras, además de analizar lo que le favorece de acuerdo con las características del individuo y las políticas de la empresa. 
         .hr2.mx-4.mb-5  

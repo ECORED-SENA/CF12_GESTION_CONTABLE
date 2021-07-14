@@ -17,7 +17,7 @@
       .col-12.col-lg-auto.justify-content-md-center.mb-4.mx-5
         figure.mb-5
           img(src='@/assets/tema1/img-1.svg', alt='Marketing')
-
+    separador
     #t_1_1.titulo-segundo
       h2 1.1  Normatividad vigente aplicada al sector
 
