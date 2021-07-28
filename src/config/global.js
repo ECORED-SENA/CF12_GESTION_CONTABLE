@@ -211,12 +211,6 @@ export default {
     },
     {
       referencia:
-        'Prieto, J. E. (2018). Ciclo de los momentos de verdad. [Esquema]. Gerencia del servicio: La clave para ganar todos.',
-      link:
-        'https://www.ecoeediciones.com/wp-content/uploads/2018/03/Gerencia-del-servicio-4ed.pdf',
-    },
-    {
-      referencia:
         'Prieto, J. E. (2018). Esquema de un momento de verdad [Esquema]. Gerencia del servicio: La clave para ganar todos. ',
       link:
         'https://www.ecoeediciones.com/wp-content/uploads/2018/03/Gerencia-del-servicio-4ed.pdf',
@@ -276,7 +270,7 @@ export default {
     {
       termino: 'ISO',
       significado:
-        '  International Organization for Standardization. Organismo emisor de normas internacionales enfocada a la calidad, seguridad y eficiencia de productos y servicios.',
+        'International Organization for Standardization. Organismo emisor de normas internacionales enfocadas a la calidad, seguridad y eficiencia de productos y servicios.',
     },
     {
       termino: 'Momentos de verdad',
